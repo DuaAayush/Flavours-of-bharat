@@ -121,7 +121,7 @@ export const food_list = [
         food_name: "Dosa",
         food_image: food_2,
         food_price: 140,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and love",
         food_category: "South indian"
     }, {
         food_id: 3,
