@@ -113,7 +113,7 @@ export const food_list = [
         food_name: "Idli",
         food_image: food_1,
         food_price: 90,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food withhygine and served with love",
         food_category: "South indian"
     },
     {
@@ -121,77 +121,77 @@ export const food_list = [
         food_name: "Dosa",
         food_image: food_2,
         food_price: 140,
-        food_desc: "Delicious food with hygine and love",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "South indian"
     }, {
         food_id: 3,
         food_name: "Vada",
         food_image: food_3,
         food_price: 90,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "South indian"
     }, {
         food_id: 4,
         food_name: "Dabeli",
         food_image: food_4,
         food_price: 40,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "South indian"
     }, {
         food_id: 5,
         food_name: "Butter Chicken",
         food_image: food_5,
         food_price: 240,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "North Indian"
     }, {
         food_id: 6,
         food_name: "Daal Makhni",
         food_image: food_6,
         food_price: 120,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "North Indian"
     }, {
         food_id: 7,
         food_name: "Chole Bhature",
         food_image: food_7,
         food_price: 90,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "North Indian"
     }, {
         food_id: 8,
         food_name: "Amritisari Kulcha",
         food_image: food_8,
         food_price: 110,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "North Indian"
     }, {
         food_id: 9,
         food_name: "Golgappe",
         food_image: food_9,
         food_price: 30,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chaat"
     }, {
         food_id: 10,
         food_name: "tikki",
         food_image: food_10,
         food_price: 60,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chaat"
     }, {
         food_id: 11,
         food_name: "Dahi bhalla",
         food_image: food_11,
         food_price: 50,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chaat"
     }, {
         food_id: 12,
         food_name: "paw bhaj",
         food_image: food_12,
         food_price: 80,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chaat"
     },
     {
@@ -199,7 +199,7 @@ export const food_list = [
         food_name: "Spring rolls",
         food_image: food_13,
         food_price: 60,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chinese"
     },
     {
@@ -207,77 +207,77 @@ export const food_list = [
         food_name: "Noodels",
         food_image: food_14,
         food_price: 70,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chinese"
     }, {
         food_id: 15,
         food_name: "Manchurian",
         food_image: food_15,
         food_price: 100,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chinese"
     }, {
         food_id: 16,
         food_name: "Momos",
         food_image: food_16,
         food_price: 50,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Chinese"
     }, {
         food_id: 17,
         food_name: "Pizza",
         food_image: food_17,
         food_price: 170,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Italian"
     }, {
         food_id: 18,
         food_name: "Spagetti",
         food_image: food_18,
         food_price: 190,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Italian"
     }, {
         food_id: 19,
         food_name: "Pasta",
         food_image: food_19,
         food_price: 140,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Italian"
     }, {
         food_id: 20,
         food_name: "Ravioli",
         food_image: food_20,
         food_price: 320,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Italian"
     }, {
         food_id: 21,
         food_name: "Samosa ",
         food_image: food_21,
         food_price: 15,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Fried"
     }, {
         food_id: 22,
         food_name: "Bread Pakora",
         food_image: food_22,
         food_price: 20,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Fried"
     }, {
         food_id: 23,
         food_name: "Mix Pakore",
         food_image: food_23,
         food_price: 200,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Fried"
     }, {
         food_id: 24,
         food_name: "Kachori",
         food_image: food_24,
         food_price: 25,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Fried"
     },
     {
@@ -285,7 +285,7 @@ export const food_list = [
         food_name: "Chai",
         food_image: food_25,
         food_price: 10,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Bevrages"
     },
     {
@@ -293,49 +293,49 @@ export const food_list = [
         food_name: "water",
         food_image: food_26,
         food_price: 20,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Bevrages"
     }, {
         food_id: 27,
         food_name: "Mango shake",
         food_image: food_27,
         food_price: 100,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Bevrages"
     }, {
         food_id: 28,
         food_name: "Lassi",
         food_image: food_28,
         food_price: 60,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Bevrages"
     }, {
         food_id: 29,
         food_name: "Ladoo",
         food_image: food_29,
         food_price: 240,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Deserts"
     }, {
         food_id: 30,
         food_name: "Ghewar",
         food_image: food_30,
         food_price: 560,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Deserts"
     }, {
         food_id: 31,
         food_name: "Gulabjamun",
         food_image: food_31,
         food_price: 200,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Deserts"
     }, {
         food_id: 32,
         food_name: "Jalebi",
         food_image: food_32,
         food_price: 150,
-        food_desc: "Delicious food with hygine",
+        food_desc: "Delicious food with hygine and served with love",
         food_category: "Deserts"
     }
 ]
